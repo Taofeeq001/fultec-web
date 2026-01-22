@@ -128,7 +128,7 @@ const App: React.FC = () => {
               <span className="w-12 h-[2px] bg-blue-500"></span>
               <span className="text-blue-400 font-black uppercase tracking-[0.4em] text-xs">Innovation Partner Since 1992</span>
             </div>
-            <h1 className="text-6xl md:text-9xl font-display font-black text-white leading-[0.9] mb-10 animate-in slide-in-from-left duration-1000">
+            <h1 className="text-4xl md:text-7xl font-display font-black text-white leading-[0.9] mb-10 animate-in slide-in-from-left duration-1000">
               Elevating <br/>
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-blue-100 italic">Technology</span> <br/>
               In Belize
