@@ -1,0 +1,9 @@
+
+{
+  "name": "Fultec Systems - Belize Tech Leaders",
+  "description": "Professional corporate website for Fultec Systems Ltd., Belize's leading IT solutions provider since 1992, featuring an AI-powered technical support assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
